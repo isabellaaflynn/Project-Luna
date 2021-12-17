@@ -23,7 +23,7 @@ Finally, our runprogram function basically sets up a pointer to the struct lunaD
 
 # Example
 
-![unknown](https://user-images.githubusercontent.com/91158069/146097652-60982963-400d-40a6-8099-2a80d83df1c5.png)
+!![image](https://user-images.githubusercontent.com/90297435/146577122-c32a0ef6-e36a-42c2-9075-baafb002d81f.png)
 
 ![image](https://user-images.githubusercontent.com/91158069/146097800-10e0f994-eac8-430c-bde9-f3335b25bc61.png)
 
